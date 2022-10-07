@@ -18,3 +18,7 @@
 <br />
 
 #
+
+<!--Able to use external modules using #NPM
+☕️ Able to use #NodeJS to write #JavaScript code and execute it to affect my computer, including manipulating and reading and writing to my local file system.
+☕️ Seen and used #APIs that other people have created. Built my own RESTful API from scratch. -->
