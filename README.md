@@ -1,5 +1,5 @@
 <h1>D I N E L L E</h1>
-<em>Why do people love working with me? Because I am the most enthusiastic, dedicated developer around. Why not hire a young, exciting and dynamic person to help you achieve your greatest vision. I am unapologetically excited about life and the world and want to experience all it has to offer.</em>
+<em>Why do people love working with me? Because I am the most enthusiastic, dedicated developer around. Why not hire a young, exciting and dynamic person to help you achieve your greatest vision.</em>
 
 
 ### 🧰 Languages and Tools
