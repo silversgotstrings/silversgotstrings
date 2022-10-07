@@ -1,4 +1,4 @@
-<h1>🏄‍♀️ Dinelle Francis</h1>
+<h1><em>🏄‍♀️ Dinelle Francis</h1></em>
 
 ### 🧰 Languages and Tools
 
