@@ -1,9 +1,4 @@
-### Hi there 👋
 
-**silversgotstrings/silversgotstrings** is a ✨ _special_ ✨ repository.
-
-- 😄 Pronouns: ... ✨amazing✨
-- ⚡ Fun fact: ... 
 
 ### 🧰 Languages and Tools
 
