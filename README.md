@@ -1,4 +1,4 @@
-🏄‍♀️ Dinelle Francis
+<h1>🏄‍♀️ Dinelle Francis</h1>
 
 ### 🧰 Languages and Tools
 
