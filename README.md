@@ -1,4 +1,4 @@
-<h1><em>🏄‍♀️ Dinelle Francis</h1></em>
+<h1><em>🏄‍♀️D I N E L L E F R A N C I S</h1></em>
 <em>Why do people love working with me? Because I am the most enthusiastic, dedicated developer around.
 I am a conscious person, attentive, motivated by my raison d'etre, who believes in blessings and
 miracles. I celebrate the diversity of individual self-expression. Why not hire somebody young, exciting
