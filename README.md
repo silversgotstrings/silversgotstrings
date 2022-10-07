@@ -1,9 +1,5 @@
 <h1>D I N E L L E 💎 F R A N C I S</h1>
-<em>Why do people love working with me? Because I am the most enthusiastic, dedicated developer around.
-I am a conscious person, attentive, motivated by my raison d'etre, who believes in blessings and
-miracles. I celebrate the diversity of individual self-expression. Why not hire somebody young, exciting
-and dynamic to help you realize your greatest vision. I am unapologetically excited about life and the
-world and want to experience all it has to offer.</em>
+<em>Why do people love working with me? Because I am the most enthusiastic, dedicated developer around. I am a conscious person, attentive, motivated by my raison d'etre, who believes in blessings and miracles. I celebrate the diversity of individual self-expression. Why not hire somebody young, exciting and dynamic to help you realize your greatest vision. I am unapologetically excited about life and the world and want to experience all it has to offer.</em>
 
 
 ### 🧰 Languages and Tools
